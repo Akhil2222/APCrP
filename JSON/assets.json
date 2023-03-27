@@ -1,0 +1,1 @@
+{"lethargy":{"script":"for(var i =2;i < 10;i++){\n    console.log(i)\n}"}}

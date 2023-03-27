@@ -1,0 +1,15 @@
+b{
+    display:inline-block;
+    width:5px;
+    height:14px;
+    animation: blink 1s infinite;
+    background: black;
+}
+@keyframes blink {
+    50%{
+        opacity: 0%; /* Idea from Timmmm:https://stackoverflow.com/questions/16344354/how-to-make-blinking-flashing-text-with-css-3*/
+    }    
+}
+body{
+    background:white;
+}

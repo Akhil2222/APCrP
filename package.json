@@ -1,0 +1,8 @@
+{
+  "name": "APCSP Create",
+  "version": "1.0.0",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "image-data-uri": "^2.0.1"
+  }
+}
